@@ -774,3 +774,121 @@ label #sidebar_btn:hover{
 
     background-image: url(apps/img/dinheiro2.png);
 }
+
+.anual{
+    position: absolute;
+    width: 91px;
+    height: 96px;
+    left: 1000px;
+    top: 213px;
+
+    background: #1D1C1C;
+    border-radius: 10px;
+}
+
+.textanual h1{
+    position: absolute;
+    width: 190px;
+    height: 41px;
+    left: 70px;
+    top: 0px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rendimentoanual{
+    position: absolute;
+    width: 107px;
+    height: 41px;
+    left: 100px;
+    top: 30px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.imgrendimentoanual{
+    position: absolute;
+    width: 80px;
+    height: 96px;
+    left: -83px;
+    top: -10px;
+    background-repeat: no-repeat;
+
+    background-image: url(apps/img/dinheiro3.png);
+}
+
+.periodo{
+    position: absolute;
+    width: 91px;
+    height: 96px;
+    left: 1000px;
+    top: 334px;
+
+    background: #1D1C1C;
+    border-radius: 10px;
+}
+
+.textperiodo h1{
+    position: absolute;
+    width: 190px;
+    height: 41px;
+    left: 68px;
+    top: 0px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.rendimentoperiodo{
+    position: absolute;
+    width: 107px;
+    height: 41px;
+    left: 113px;
+    top: 30px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.imgredimentoperiodo{
+    position: absolute;
+    width: 80px;
+    height: 96px;
+    left: -95px;
+    top: -10px;
+    background-repeat: no-repeat;
+
+    background-image: url(apps/img/dinheiro4.png);
+}
