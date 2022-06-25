@@ -892,3 +892,61 @@ label #sidebar_btn:hover{
 
     background-image: url(apps/img/dinheiro4.png);
 }
+
+.backgroundprata{
+    position: absolute;
+    width: 333px;
+    height: 495px;
+    left: 1230px;
+    top: 1080px;
+
+    background: #1D1C1C;
+    border-radius: 11px;
+}
+
+.quadradoprata{
+    position: absolute;
+    width: 333px;
+    height: 145px;
+    left: 0px;
+    top: 0px;
+
+    background: #181818;
+    border-radius: 11px;
+}
+
+.titleprata h1{
+    position: absolute;
+
+    left: 100px;
+    top: 10px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: rgba(255, 255, 255);
+}
+
+.titleprata h2{
+    position: absolute;
+    left: 120px;
+    top: 50px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.48);
+
+}
+
