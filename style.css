@@ -641,7 +641,7 @@ label #sidebar_btn:hover{
     position: absolute;
     width: 241px;
     height: 63px;
-    left: 177px;
+    left: 460px;
     top: 125px;
     
     font-style: normal;
@@ -653,4 +653,124 @@ label #sidebar_btn:hover{
     text-align: center;
 
     color: #FFFFFF;
+}
+
+.semanal{
+    
+    position: absolute;
+    width: 91px;
+    height: 96px;
+    left: 460px;
+    top: 213px;
+
+    background: #1D1C1C;
+    border-radius: 10px;
+}
+
+.textsemanal h1{
+    position: absolute;
+    width: 219px;
+    height: 41px;
+    left: 70px;
+    top: 0px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.rendimentotexto{
+    position: absolute;
+    width: 107px;
+    height: 41px;
+    left: 90px;
+    top: 30px;
+
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.imgdinheiro{
+    position: absolute;
+    width: 1227px;
+    height: 313px;
+    left: 18px;
+    top: 18px;
+    background-repeat: no-repeat;
+
+    background-image: url(apps/img/dinheiro.png);
+}
+
+.mensal{
+    position: absolute;
+    width: 91px;
+    height: 96px;
+    left: 460px;
+    top: 334px;
+
+    background: #1D1C1C;
+    border-radius: 10px;
+}
+
+.mensal h1{
+    position: absolute;
+    width: 185px;
+    height: 41px;
+    left: 90px;
+    top: 0px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rendimentomensal{
+    position: absolute;
+    width: 107px;
+    height: 41px;
+    left: 105px;
+    top: 30px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.imgrendimentomensal{
+    position: absolute;
+    width: 80px;
+    height: 96px;
+    left: -85px;
+    top: -10px;
+    background-repeat: no-repeat;
+
+    background-image: url(apps/img/dinheiro2.png);
 }
